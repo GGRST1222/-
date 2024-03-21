@@ -18,3 +18,5 @@
 * 卡牌資訊頁 (card-info.php)
 * 登入/註冊頁 (login.php)
 * 最愛清單頁 (favorite.php)
+
+![alt text](image-4.png)
